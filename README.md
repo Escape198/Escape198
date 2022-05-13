@@ -9,6 +9,9 @@ Hi there 👋 I'm Ruslan
 </a>
 </br>
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Escape198)](https://github.com/Escape198/github-readme-stats)
+
 #
 **Back-end**
 

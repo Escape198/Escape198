@@ -9,9 +9,6 @@ Hi there 👋 I'm Ruslan
 </a>
 </br>
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Escape198)](https://github.com/Escape198/github-readme-stats)
-
 #
 **Back-end**
 
@@ -48,3 +45,5 @@ Hi there 👋 I'm Ruslan
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+#
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Escape198)](https://github.com/Escape198/github-readme-stats)

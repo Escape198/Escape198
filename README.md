@@ -4,7 +4,6 @@ Hi there 👋 I'm Ruslan
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dlZ3d0aml5emI2YTl2aXR2c3Y2aWRnenJ5em9tZnM3aHk1YTd4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
 </div>
 </br>
-##
 <a href="https://t.me/ljuice">
   <img align="left" alt="Telegram" width="100px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>

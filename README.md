@@ -1,6 +1,6 @@
 #
 # 💫 About Me:
-Hello everyone :) 👋<br>I am a Python Backend Developer, with 2+ years of commercial development experience, able to design and build applications using Python; FastAPI; HTML-CSS; JavaScript, and Django (/DRF), using Docker🐋 to containerize and deploy applications efficiently. <br>I am looking for opportunities where I can solve technical problems and contribute to team/product development.<br><br>In the future, want to learn more about artificial intelligence technologies.<br>Open to office, remote work or relocation. 
+Hello everyone :) 👋<br>I am a Python Backend Developer, with 4+ years of development experience, able to design and build applications using Python; FastAPI; HTML-CSS; JavaScript, and Django (/DRF), using Docker🐋 to containerize and deploy applications efficiently. <br>I am looking for opportunities where I can solve technical problems and contribute to team/product development.<br><br>In the future, want to learn more about artificial intelligence technologies.<br>Open to office, remote work or relocation. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dlZ3d0aml5emI2YTl2aXR2c3Y2aWRnenJ5em9tZnM3aHk1YTd4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>

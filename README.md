@@ -1,65 +1,82 @@
-#
-# 💫 About Me:
-Hello everyone :) 👋<br>I am a Python Backend Developer, with 4+ years of development experience, able to design and build applications using Python; FastAPI; HTML-CSS; JavaScript, and Django (/DRF), using Docker🐋 to containerize and deploy applications efficiently. <br>I am looking for opportunities where I can solve technical problems and contribute to team/product development.<br><br>In the future, want to learn more about artificial intelligence technologies.<br>Open to office, remote work or relocation. 
+<h1 align="center">Hi there 👋, I'm Ruslan</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dlZ3d0aml5emI2YTl2aXR2c3Y2aWRnenJ5em9tZnM3aHk1YTd4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dlZ3d0aml5emI2YTl2aXR2c3Y2aWRnenJ5em9tZnM3aHk1YTd4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="250"/>
 </div>
 
-<br><br><br>
-<a href="https://t.me/ljuice">
-  <img align="left" alt="Telegram" width="100px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ruslan-kirzhanov-915839221/">
-  <img align="left" alt="Linkedin" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br>
+---
 
-# 💻 Tech Stack:
-**Back-end**
+🎯 **About Me**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Django Rest Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+I am a Python Backend Developer with over 4 years of professional experience designing and building high-load fintech and crypto platforms from scratch.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-#
-**Databases**
+💡 My main focus areas:
+- Designing robust microservice architectures
+- Creating clean and secure APIs
+- Optimizing databases and queries (PostgreSQL, Redis, MongoDB)
+- Building end-to-end services: from architecture and CI/CD to antifraud logic and monitoring
 
-![Postgresql](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-#
-**Front-end**
+🌱 In the future, I'm interested in deepening my skills in distributed systems, AI, and blockchain.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-#
-**Tools**
+🔗 I am open to remote work, hybrid formats, or relocation opportunities.
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Escape198&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+💼 **Experience Highlights**
 
-## 🏆 GitHub Trophies
+- **Crypto Story Bank**
+  - Architected and developed a high-load currency exchange and KYC service
+  - Optimized SQL queries (response time reduced from 800ms to 150ms)
+  - Implemented role-based access control and antifraud logic
+
+- **Sber**
+  - Developed analytics backend with Flask, Celery, Kafka, ClickHouse
+  - Designed dashboards in Apache Superset
+  - Improved performance of PostgreSQL and Redis workloads
+
+- **Ultimate Capital**
+  - Built LMS systems and integrations with payment services
+  - Delivered APIs for analytics, CRM, and notification platforms
+
+---
+
+🛠 **Tech Stack**
+
+**Backend:**
+Python (FastAPI, Django, DRF, Flask, Aiohttp, asyncio), Celery, Kafka, RabbitMQ
+
+**Databases:**
+PostgreSQL, Redis, MongoDB, ClickHouse, SQLAlchemy
+
+**DevOps:**
+Docker, nginx, GitLab CI/CD, Kubernetes
+
+**Frontend:**
+JavaScript (Node.js, React), HTML/CSS
+
+**Testing & Monitoring:**
+Pytest, Selenium, Postman, Grafana, ELK stack
+
+---
+
+📫 **Contact Me**
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LJuice)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-kirzhanov-915839221/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/escape198)
+
+---
+
+📊 **GitHub Stats**
+
+![](https://github-readme-stats.vercel.app/api?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Escape198&theme=blueberry&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Escape198&theme=blueberry&hide_border=false&layout=compact)
+
+---
+
+🏆 **GitHub Trophies**
+
 ![](https://github-profile-trophy.vercel.app/?username=Escape198&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Escape198&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

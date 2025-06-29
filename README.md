@@ -54,7 +54,6 @@ Hello everyone :) 👋<br>I am a Python Backend Developer, with 4+ years of deve
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Escape198&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Escape198&theme=radical&no-frame=false&no-bg=true&margin-w=4)

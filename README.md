@@ -20,7 +20,12 @@ I am a Python Backend Developer with over 4 years of professional experience des
 
 🔗 I am open to remote work, hybrid formats, or relocation opportunities.
 
+---
 
+📊 **GitHub Stats**
+
+![](https://github-readme-stats.vercel.app/api?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Escape198&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Escape198&theme=blueberry&hide_border=false&layout=compact&cache_seconds=1)
 ---
 
@@ -66,13 +71,6 @@ Pytest, Selenium, Postman, Grafana, ELK stack
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LJuice)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-kirzhanov-915839221/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/escape198)
-
----
-
-📊 **GitHub Stats**
-
-![](https://github-readme-stats.vercel.app/api?username=Escape198&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Escape198&theme=blueberry&hide_border=false)
 
 ---
 

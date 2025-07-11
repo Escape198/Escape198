@@ -3,7 +3,7 @@ name: Daily Random Commits
 on:
   workflow_dispatch:
   schedule:
-    - cron: "19 23 * * *"
+    - cron: "25 23 * * *"
 
 jobs:
   commit:

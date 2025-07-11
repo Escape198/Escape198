@@ -1,6 +1,7 @@
 name: Daily Random Commits
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "19 23 * * *"
 

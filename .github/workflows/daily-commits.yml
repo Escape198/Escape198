@@ -1,0 +1,27 @@
+name: Daily Random Commits
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make multiple commits
+        run: |
+          n=$(( RANDOM % 31 + 10 ))
+          echo "Will create $n commits"
+          for i in $(seq 1 $n); do
+            echo "Commit number $i at $(date -u)" >> README.md
+            git config user.name "GitHub Actions Bot"
+            git config user.email "actions@github.com"
+            git add README.md
+            git commit -m "Daily update $i: $(date -u)"
+          done
+
+      - name: Push
+        run: git push

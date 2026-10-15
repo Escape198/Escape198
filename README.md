@@ -1,68 +1,35 @@
 # Ruslan Kirzhanov
 
-Software architect, ~6 years in commercial engineering. FinTech systems where
-correctness matters more than velocity. Deep PostgreSQL internals, actively
-moving into Go.
+AI engineer. Building systems where language models do real work — agents,
+context engineering, evals, observability for LLM pipelines.
 
-## What I build
+~6 years in commercial backend engineering before this. The habits transfer:
+reproducibility, hard failure modes, keeping the critical path narrow.
+Most of them do, anyway — some have to be reinvented for systems where
+the computation is a probability distribution.
 
-High-stakes backend systems with hard failure modes:
+## What I'm currently thinking about
 
-- Payment infrastructure, KYC/AML pipelines, antifraud logic
-- Distributed services designed for consistency under partial failure
-- PostgreSQL at scale: replication topology, lock contention, large-dataset
-  performance
+- Agent systems that stay useful past turn 20 — memory, planning,
+  tool-use with proper failure semantics
+- Context engineering as a durable practice rather than prompt-tweaking:
+  project memory, decision records, feedback loops that persist across
+  sessions
+- Evals for LLM workflows: assertions about trajectories and failure
+  modes, not just outputs
+- Observability for LLM apps: traces that span model calls, tool calls,
+  retries, and cache hits as one picture
 
-Operating at senior++/staff level — owning architecture decisions, not just
-implementations.
+## Why engineering discipline still matters
 
-## AI-augmented engineering
-
-I treat AI tools as a force multiplier for an engineer who already has depth,
-not a shortcut around it. In practice this means:
-
-- Durable context engineering: project memory, decision records, feedback
-  loops that persist across sessions
-- Pattern discipline: Transactional Outbox, Idempotency-Key, RFC 7807,
-  hexagonal boundaries — chosen deliberately, not improvised
-- World-class defaults over "good enough for now"
-- Reviewing AI output with the same bar as a junior PR: compiles, tested,
-  no fluff, no comments that restate what the code does
-
-The combination produces more shipped work per decision than either an
-AI-skeptic or an AI-maximalist produces alone.
-
-## Current focus
-
-Building **Boologic** — my own company (named after George Boole), a small
-series of products in FinTech and privacy infrastructure, with the long
-arc aimed at funding philanthropic work.
-
-## Technical surface
-
-**Languages:** Python (deep), Go (growing), SQL (deep)
-**Databases:** PostgreSQL (internals), Redis, ClickHouse
-**Backend:** FastAPI, Django, Flask, Aiohttp, Celery, Kafka, RabbitMQ
-**Infra:** Docker, Kubernetes, GitLab CI, Prometheus, Grafana, OpenTelemetry
-**Patterns:** Hexagonal, DDD, Transactional Outbox, Saga, Idempotency-Key,
-Circuit Breaker, Backpressure, LISTEN/NOTIFY, CQRS where it earns itself
-
-## Selected experience
-
-**Crypto Story Bank** — currency exchange + KYC service.
-Architected the data model, cut p95 query latency 800ms → 150ms, built
-role-based access control and antifraud logic.
-
-**Sber** — analytics backend on Flask, Celery, Kafka, ClickHouse.
-Dashboards in Apache Superset. PostgreSQL and Redis performance work.
-
-**Ultimate Capital** — LMS platform, payment integrations, APIs for
-analytics, CRM, and notifications.
+LLM-driven systems fail in genuinely new ways, and the engineering bar
+from traditional backend — reproducible builds, deterministic tests,
+clean failure modes — doesn't transfer by default. Importing it
+deliberately, where it still earns its weight, is the actual work.
 
 ## Contact
 
 - Telegram: [@LJuice](https://t.me/LJuice)
-- LinkedIn: [ruslan-kirzhanov](https://www.linkedin.com/in/ruslan-kirzhanov-915839221/)
 - Email: recursion198@gmail.com
 
 ---
